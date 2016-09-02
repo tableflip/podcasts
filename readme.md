@@ -1,10 +1,9 @@
-<img src="http://vignette3.wikia.nocookie.net/mysingingmonsters/images/9/92/Spacer.png" width="33%" />![](https://tableflip.io/img/tableflip.min.svg)
-
-#TABLEFLIP Podcasts
-
-@alanshaw
-@olizilla
-@richsilv
-@bmordan
-
-Round the table with TABLEFLIP
+<p align="center">
+  <img src="https://tableflip.io/img/tableflip.min.svg" width="100"/><br/>
+  <strong>TABLEFLIP Podcasts</strong><br/><br/>
+  @alanshaw<br/>
+  @olizilla<br/>
+  @richsilv<br/>
+  @bmordan<br/><br/>
+  Round the table with TABLEFLIP
+</p>
